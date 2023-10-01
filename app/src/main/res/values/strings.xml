@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="onboarding1_text">Первое приветствие</string>
+    <string name="onboarding2_text">Второе приветствие</string>
+    <string name="onboarding3_text">Третье приветствие</string>
+    <string name="login_text">Страница входа</string>
+    <string name="registration_text">Страница создания учётной записи</string>
+</resources>
